@@ -2,3 +2,8 @@ __/
 
 .ipynb_checkpoints/
 
+# big files
+## COCO
+*train2017.json
+*train*.json
+
