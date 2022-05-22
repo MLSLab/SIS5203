@@ -1,9 +1,9 @@
 __/
-
+__*/
 .ipynb_checkpoints/
 
 # big files
 ## COCO
 *train2017.json
 *train*.json
-
+*.pickle
